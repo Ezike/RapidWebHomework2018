@@ -1,6 +1,6 @@
 # Resume
 
-Online resume hosted on Github.
+Online resume hosted on Github pages.
 https://ezike.github.io/profile/
 
 <h4 align="center">
